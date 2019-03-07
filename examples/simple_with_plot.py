@@ -1,4 +1,4 @@
-from cinfdata import Cinfdata
+from cinf_database.cinfdata import Cinfdata
 from matplotlib import pyplot as plt
 
 db = Cinfdata('stm312')
